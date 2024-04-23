@@ -72,3 +72,7 @@ Once the project is set up, you can use it to:
 - Identify top-performing products and customers.
 - Track revenue and sales quantity over time.
 - Validate analysis results through SQL queries.
+
+## Snap of Dashboard
+
+![Sales_Insights_snap](https://github.com/shuja04/Sales-Data-Analysis-Visualization-Project/assets/167103109/1a2a6f39-d224-43f7-a9cf-6466c3f8d591)
